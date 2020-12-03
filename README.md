@@ -1,0 +1,1 @@
+# SignInManager.GetExternalLoginInfoAsync
